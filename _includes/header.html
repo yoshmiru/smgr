@@ -13,7 +13,7 @@
     </a>
 
     {%- if titles_size > 0 -%}
-      <nav class="site-nav">
+      <nav class="site-nav navbar">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -23,13 +23,30 @@
           </span>
         </label>
 
-        <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
+        <div class="trigger navbar-menu">
+          <div class="navbar-start">
+
+            {%- for path in page_paths -%}
+              {%- assign my_page = site.pages | where: "path", path | first -%}
+              {%- if my_page.title -%}
+              <a class="page-link navbar-item" href="{{ my_page.url | relative_url }}">
+                {{ my_page.title | escape }}
+              </a>
+              {%- endif -%}
+            {%- endfor -%}
+
+            <div class="navbar-item has-dropdown is-hoverable">
+              <a class="navbar-link"></a>
+
+              <div class="navbar-dropdown">
+                {%- for path in site.content_pages -%}
+                  {%- assign my_page = site.pages | where: "path", path | first -%}
+                  <a class="navbar-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endfor -%}
+              </div>
+
+            </div>
+          </div>
         </div>
       </nav>
     {%- endif -%}

@@ -73,3 +73,9 @@ minima:
 header_pages:
  - about.md
  - cast.md
+
+content_pages:
+  - main.md
+  - train.md
+  - weekly.md
+  - walk.md
