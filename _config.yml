@@ -1,0 +1,75 @@
+#theme: jekyll-theme-minimal
+theme: minima
+#google_analytics: [UA-*********-*]
+#google_site_verification: **********
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+title: せんだいミュージックゴーラウンド
+sub-title: – Sendai music go round -
+author: >
+  せんだいミュージックゴーラウンド – Sendai music go round - info@sendai-musicgoround.com
+
+  #  name: せんだいミュージックゴーラウンド – Sendai music go round
+  #  email: info@sendai-musicgoround.com
+
+tagline: 仙台を中心に活動する、多ジャンルの音楽アーティストやパフォーマーによる、 地域の特色を活かした多彩なインターネットプログラム（番組）の制作と配信を行います。
+description: > # this means to ignore newlines until "show_excerpts:"
+  仙台を中心に活動する、多ジャンルの音楽アーティストやパフォーマーによる、 地域の特色を活かした多彩なインターネットプログラム（番組）の制作と配信を行います。
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+#twitter:
+#  username:
+#  card: summary
+facebook:
+  #  app_id:
+  publisher: https://www.facebook.com/smgr2020
+  #admins: ****
+logo: /assets/logo.png
+lang: ja-JP
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: smgr2020
+    github:  yoshmiru
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: smgr2020
+    # flickr:   jekyll
+    instagram: sendai_music_go_round
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    youtube_channel: UCPufwSIsgAQ1_z4GwXw-QQw
+    youtube_channel_name: せんだいミュージックゴーラウンド
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+ - cast.md
