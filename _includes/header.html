@@ -1,14 +1,18 @@
-<header class="site-header">
+<header class="site-header container">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ "/assets/logo.png" | relative_url }}">
-      <div class="text">
-      {{ site.title | escape }}<br>
-      {{ site.sub-title | escape }}
+      <div class="columns is-vcentered">
+        <div class="column">
+          <img src="{{ "/assets/logo.png" | relative_url }}">
+        </div>
+        <div class="column is-size-6">
+          {{ site.title | escape }}<br>
+          {{ site.sub-title | escape }}
+        </div>
       </div>
     </a>
 
