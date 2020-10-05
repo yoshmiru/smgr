@@ -75,7 +75,7 @@ header_pages:
  - cast.md
 
 content_pages:
-  - main.md
+  - special.md
   - train.md
   - weekly.md
   - walk.md
