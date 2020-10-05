@@ -1,0 +1,22 @@
+{
+  "name": "smgr-jekyll",
+  "version": "1.0.0",
+  "description": "仙台を中心に活動する、多ジャンルの音楽アーティストやパフォーマーによる、 地域の特色を活かした多彩なインターネットプログラム（番組）の制作と配信を行います。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshmiru/smgr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshmiru/smgr/issues"
+  },
+  "homepage": "https://github.com/yoshmiru/smgr#readme",
+  "devDependencies": {
+    "bulma": "^0.9.1"
+  }
+}
