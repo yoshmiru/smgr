@@ -7,13 +7,13 @@ meta: "仙台を中心に活動する、多ジャンルの音楽アーティス�
 
 <span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">オリジナルコンテンツ　出演者紹介</span>
 
-https://youtu.be/GhH4iOIQVo8
+[https://youtu.be/GhH4iOIQVo8](https://youtu.be/GhH4iOIQVo8)
 
 &nbsp;
 
 <span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">名雪祥代（サックス）</span>
 
-<span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-209" src="http://sendai-musicgoround.com/wp-content/uploads/2020/08/109516762_3193856450700824_8118029447884925302_o-300x300.jpg" alt="" width="300" height="300" /></span>
+<span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-209" src="{{ "/assets/images/cast/cast1.jpg" }}" alt="" width="300" height="300" /></span>
 
 <span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">宮城県美里町出身。</span>
 <span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">昭和音楽大学、及び大学院(神奈川県)でクラシックサックスを学び、読売新人演奏会出演や、昭和音大オーケストラのコンチェルトソリストを務める等、クラシックプレイヤーとしての研鑽を積んだ。</span>
@@ -26,7 +26,7 @@ https://youtu.be/GhH4iOIQVo8
 
 &nbsp;
 <p class="gmql0nx0 l94mrbxd p1ri9a11 lzcic4wl bp9cbjyn j83agx80" dir="auto"><span style="font-size: 16px; font-family: 'Noto Sans Japanese';">渡邉滉介（ヴォーカル）</span></p>
-<p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-210" src="http://sendai-musicgoround.com/wp-content/uploads/2020/08/49582271_1330227880451146_2735789086882136064_n-300x300.jpg" alt="" width="300" height="300" /></span></p>
+<p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-210" src="{{ "/assets/images/cast/cast2.jpg" }}" alt="" width="300" height="300" /></span></p>
 <p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">宮城県仙台市生まれ。 小学生の頃、吹奏楽部でSaxphoneを通し初めて音楽に触れる。</span></p>
 <p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">そしてSam cookやDonny hathaway.Frank sinatraなど様々なジャンルのシンガー達から影響を受ける。</span></p>
 <p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">大学2年生の頃に、仙台のジャズミュージシャン達との共演を期にJazzに触れ、本格的ににヴォーカルとして活動を始める。</span></p>
@@ -35,24 +35,24 @@ https://youtu.be/GhH4iOIQVo8
 <BR><BR><BR><BR>
 
 <p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">江浪純子</span></p>
-<p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-211" src="http://sendai-musicgoround.com/wp-content/uploads/2020/08/35423286_1816936038345493_4105425127892582400_o-300x169.jpg" alt="" width="300" height="169" /></span></p>
+<p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-211" src="{{ "/assets/images/cast/cast3.jpg" }}" alt="" width="300" height="169" /></span></p>
 <p dir="auto"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">宮城県仙台市出身。 幅広いジャンルのプレイを展開し、東北を中心に各地で多くのライブセッション、レコーディングに参加、演奏活動を展開している。</span></p>
 &nbsp;
 <BR><BR><BR><BR>
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">大垣涼太（ギター）</span></div>
-<div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-212" src="http://sendai-musicgoround.com/wp-content/uploads/2020/08/24058788_1725992560753056_7804023227274619805_n-300x201.jpg" alt="" width="300" height="201" /></span></div>
+<div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-212" src="{{ "/assets/images/cast/cast4.jpg" }}" alt="" width="300" height="201" /></span></div>
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">音楽専門学校を卒業後、英国trinity college of musicに留学。</span></div>
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">その後NY滞在を経て、帰国。東京で作編曲や演奏を中心に活動し、現在は仙台に拠点を移し活動している。</span></div>
 &nbsp;
 <BR><BR><BR><BR>
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">岩谷眞</span></div>
-<div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-213" src="http://sendai-musicgoround.com/wp-content/uploads/2020/08/380354_322454421101368_1225696792_n-200x300.jpg" alt="" width="200" height="300" /></span></div>
+<div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-213" src="{{ "/assets/images/cast/cast5.jpg" }}" alt="" width="200" height="300" /></span></div>
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">東北大学ジャズ研に入部し、ベースをはじめる。 独学で練習を重ね、在学中よりプロミュージシャンとセッションを重ね、</span></div>
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">現在は仙台市内のライブハウスを中心に活躍。 東北を中心に様々なバンドに所属する一方で、県外からのミュージシャンのサポートなど幅広い活動をしている。</span></div>
 <BR><BR><BR><BR>
 
 <div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">今村陽太郎</span></div>
-<div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-214" src="http://sendai-musicgoround.com/wp-content/uploads/2020/08/107951501_3166747763361351_8874636108414683287_n-300x300.jpg" alt="" width="300" height="300" /></span></div>
+<div><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;"><img class="alignnone size-medium wp-image-214" src="{{ "/assets/images/cast/cast6.jpg" }}" alt="" width="300" height="300" /></span></div>
 <div>
 <div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">洗足学園音楽大学Jazz科卒。在学中に在籍したバンドで、横浜ジャズコンペティションで洗足音楽大学賞、山中湖ジャズコンペティションで審査員特別賞を受賞。</span></div>
 <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql"><span style="font-family: 'Noto Sans Japanese'; font-size: 16px;">サド・ジョーンス&amp;メル・ルイスオーケストラやアートアンサンブルシカゴなどで活躍していたトランペット奏者、フランク・ゴードンのセクステットに2012年に加入。</span></div>
