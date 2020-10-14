@@ -9,35 +9,54 @@ layout: default
 
   {{ content }}
 
-  <ul>
-    <li>
-      <h3>
-        <a class="post-link" href="{{ "/special/" | relative_url }}">メインチャンネル</a>
-        <p>説明が入ります</p>
-      </h3>
-    </li>
+  <div class="columns">
+    <div class="column">
+      <div class="box">
+        <h3>
+          <a class="post-link subtitle" href="{{ "/special/" | relative_url }}">メインチャンネル</a>
+        </h3>
+        <p>ゴーラウンドが制作するメイン音楽番組</p>
+      </div>
+    </div>
+    <div class="column">
+      <div class="box">
+        <h3>
+          <a class="post-link subtitle" href="{{ "/weekly/" | relative_url }}">ライブチャンネル</a>
+        </h3>
+        <p>ゴーランド撮影班が送る"いま"のライブを撮って出し</p>
+      </div>
+    </div>
+  </div>
 
-    <li>
-      <h3>
-        <a class="post-link" href="{{ "/train/" | relative_url }}">ミュージックトレイン</a>
-        <p>説明が入ります</p>
-      </h3>
-    </li>
+  <div class="columns">
+    <div class="column">
+      <div class="box">
+        <h3 class="">
+          <a class="post-link subtitle" href="{{ "/train/" | relative_url }}">せんだいミュージックトレイン</a>
+        </h3>
+        <p>市民みんなで作るライブ番組</p>
+      </div>
+    </div>
+    <div class="column">
+      <div class="box">
+        <h3 class="">
+          <a class="post-link subtitle" href="{{ "/walk/" | relative_url }}">音楽さんぽ</a>
+        </h3>
+        <p>宮城のミュージシャンが面白い街の話、音楽の話などをご案内します</p>
+      </div>
+    </div>
+  </div>
 
-    <li>
-      <h3>
-        <a class="post-link" href="{{ "/weekly/" | relative_url }}">いきおいで流すぜ！　撮影班企画</a>
-        <p>説明が入ります</p>
-      </h3>
-    </li>
+      <div class="box">
+        <h3>
+          <a class="post-link subtitle" href="{{ "/schedules/" | relative_url }}">ゴーラウンド・ライブスケジュール</a>
+        </h3>
+      </div>
 
-    <li>
-      <h3>
-        <a class="post-link" href="{{ "/walk/" | relative_url }}">音楽さんぽ</a>
-        <p>説明が入ります</p>
-      </h3>
-    </li>
-  </ul>
-
+      <div class="box">
+        <h3>
+          <a class="post-link subtitle" href="{{ "/events/" | relative_url }}">ゴーラウンド音楽祭</a>
+        </h3>
+      </div>
 
 </div>

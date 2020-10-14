@@ -76,6 +76,8 @@ header_pages:
 
 content_pages:
   - special.md
-  - train.md
   - weekly.md
+  - train.md
   - walk.md
+  - schedules.md
+  - events.md
